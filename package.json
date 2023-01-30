@@ -1,0 +1,16 @@
+{
+  "name": "01-understanding-npm-scripts",
+  "version": "1.0.0",
+  "description": "complete guide of node js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Amit Bhandari",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
